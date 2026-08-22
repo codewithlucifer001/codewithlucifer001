@@ -37,7 +37,7 @@ Performance-driven engineer specializing in building modern web applications, ro
 ## 🌐 Socials & Digital Footprint
 📩 **Email:** khanalimajeed771@gmail.com  
 💼 **LinkedIn:** [in/ali-majeed-khan](https://linkedin.com/in/ali-majeed-khan-52b01343)  
-🖥️ **Portfolio:** [bit.ly/4a5Ei7J](https://bit.ly/4a5Ei7J)  
+🖥️ **Portfolio:** https://portfolio-2026-eta-jet.vercel.app/  
 💻 **Code Repositories:** [bit.ly/3S8SdUu](https://bit.ly/3S8SdUu)
 ![](https://github-readme-stats.vercel.app/api?username=codewithlucifer001&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=codewithlucifer001&theme=gotham&hide_border=false)<br/>
